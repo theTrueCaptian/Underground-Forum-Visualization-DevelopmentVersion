@@ -1,0 +1,19 @@
+{
+  "name": "forumphase1",
+  "version": "1.0.0",
+  "description": "This is our reference for the interface.",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "errorhandler": "^1.4.2",
+    "method-override": "^2.3.5",
+    "body-parser": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

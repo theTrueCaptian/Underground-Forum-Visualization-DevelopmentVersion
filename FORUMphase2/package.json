@@ -1,0 +1,20 @@
+{
+  "name": "forumphase2",
+  "version": "1.0.0",
+  "description": "#Authors:  Autumn Wu (Tebyt), Pan Chen (Tebyt), Maeda Hanafi (theTrueCaptian)",
+  "main": "data_format.js",
+  "dependencies": {
+    "method-override": "^2.3.5",
+    "errorhandler": "^1.4.2",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
